@@ -1,4 +1,4 @@
 # exercise-repo
-This project will conrain...
-Repository made for exercises.
-Hello, again!!!
+This project  conrain...
+Repository  for exercises.
+Hello, my friend!!!
