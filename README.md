@@ -1,3 +1,4 @@
 # exercise-repo
-Repo made for exercises.
-We resolved the conflict!
+This project will conrain...
+Repository made for exercises.
+Edired again in master branch..
