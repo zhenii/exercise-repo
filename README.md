@@ -1,4 +1,4 @@
 # exercise-repo
-This project will conrain...
-Repository made for exercises.
-Edired again in master branch..
+This project conrain...
+Rep made for exercises
+Edired again in this master branch..
