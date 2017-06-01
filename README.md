@@ -1,2 +1,3 @@
 # exercise-repo
-repo for exercises
+Repo made for exercises
+This will make a conflict !
