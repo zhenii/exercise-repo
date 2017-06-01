@@ -1,4 +1,8 @@
 Hello, Gosho.
 How are you ?
 Where you from ?
+<<<<<<< HEAD
 What is this ?
+=======
+Are you OK ?
+>>>>>>> branchName
