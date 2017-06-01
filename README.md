@@ -1,6 +1,6 @@
 # exercise-repo
 
 This project conrain...
-Repo made for exercises
-Edired again in this master branch..
+Repository made for exercises
+Edited again in this master branch.
 
